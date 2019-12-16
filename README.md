@@ -1,2 +1,2 @@
-# teste0.01
-primeiro_teste_com_o_projeto
+# testes
+Repositório criado para testes de implementação de funções novas para o jogo
