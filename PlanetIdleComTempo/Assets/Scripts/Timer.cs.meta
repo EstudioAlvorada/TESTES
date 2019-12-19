@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b7b9770d6106b94097003c66a516dce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - contador: {instanceID: 0}
+  - terra: {instanceID: 0}
+  - explosao: {fileID: 7452224402756909668, guid: 23c3387627261a144a8c9b2291cdd975,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
